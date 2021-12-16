@@ -1,0 +1,20 @@
+main:
+  - title: "Health"
+    url: /health/
+    description: "Post about sport, health and nutrition"
+
+  - title: "Music"
+    url: /music/
+    description: "Songs and videos of me performing"
+  
+  - title: "DIY"
+    url: /diy/
+    description: "Project where I try to do something by myself and learn a lot"
+
+  - title: "Books"
+    url: /books/
+    description: "Book reviews + favorite books + synopsis"
+
+  - title: "Programming"
+    url: /programming/
+    description: "projects, p5, sports, 100 days, more"
