@@ -60,6 +60,35 @@ defaults:
 
 include: ["_pages", "_post"]
 
+author:
+  name             : "Jonathan Girard-Viau"
+  avatar           : "/assets/images/me.jpeg"
+  bio              : "Just another curious mind!"
+  location         : "Quebec, Canada"
+  email            : "webappjohn@gmail.com"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:webappjohn@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/girardvjonathan"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Girardvjonathan"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jonathan-girard-viau/"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

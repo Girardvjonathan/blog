@@ -9,4 +9,5 @@ header:
   overlay_image: /assets/images/backdrop.jpeg
   excerpt: "This post should [...]"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/@lastly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+author_profile: false
 ---
