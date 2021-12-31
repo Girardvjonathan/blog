@@ -1,8 +1,84 @@
 - title: I was born 👶 
-  date: 1993-01-07
+  date: 1993
 
-- title: I won a few championship of Judo
-  date: 2012-01-07
+- title: Played hockey and was team captain
+  date: 2006
+
+- title: Doing kickflip at the skatepark
+  date: 2006
+
+- title: Started playing guitar
+  date: 2007
+
+- title: Started composing music
+  date: 2007
+
+- title: Started being DJ at friends party
+  date: 2007
+
+- title: Started Piano
+  date: 2008
+
+- title: Created a youtube channel that accumulated over 350k views and 2000 subscribers
+  date: 2009
+
+- title: Did 3 year of Judo and won multiple competitions
+  date: 2010
+
+- title: Had an internship in computer vision before starting university
+  date: 2012
+  description: Did really well and created all the assignments for the certificate
+
+- title: Become DJ for my University student group parties
+  date: 2012
+
+- title: Switched to an engineering degree
+  date: 2013
+
+- title: Participated in two student groups
+  date: 2014-2018
+
+- title: Participated in a few hackathons, Computer science games and NSEC
+  date: 2014-2018
+
+- title: Started travelling 🛩️
+  date: 2015
+
+- title: Help organize and been a mentor in a HTML500 event
+  date: 2016
+
+- title: Gave a 3h workshop on docker to around 30 persons
+  date: 2017
 
 - title: Graduated from University
-  date: 2018-12-12
+  date: 2017
+
+- title: Started at Shopify (my dream job)
+  date: 2018
+
+- title: Lead a major change of API for Stripe processor
+  date: 2019
+
+- title: Built my own speakers from scratch
+  date: 2020
+
+- title: started climbing
+  date: 2020
+
+- title: Had travelled to 5 continents
+  date: 2020
+
+- title: Lead a team/project to rewrite the payment component
+  date: 2020
+
+- title: Changed team and lead a project + an intern
+  date: 2021
+
+- title: Climbed two v8 boulders
+  date: 2021
+
+- title: Bought a house
+  date: 2021
+
+- title: Started my blog
+  date: 2021
