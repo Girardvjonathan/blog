@@ -1,11 +1,9 @@
 ---
 layout: 'single'
 title: title
-date: '2021-12-18T14:40:06.496Z'
 category: Category
 tags:
   - tag1
-  - tag2
 summary: Summary of the article
 ---
 
