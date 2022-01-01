@@ -13,7 +13,7 @@ summary: Summary of the article
 {% for achievement in site.data.achievements %}
   <div class="container {% cycle 'left', 'right' %}">
     <div class="date">{{achievement.date}}</div>
-    <i class="icon fa fa-home"></i>
+    <!-- <i class="icon fa fa-home"></i>  TODO -->
     <div class="content">
       <h2>{{achievement.title}}</h2>
       {% if achievement.description %}
