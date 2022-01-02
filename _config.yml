@@ -8,11 +8,11 @@ title: Jonathan's Rambling
 email: webappjohn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jonathan's journal about his life, projects and reflections
-baseurl: /blog    
+baseurl:
 twitter_username: girardvjonathan
 github_username:  Girardvjonathan
-domain: girardvjonathan.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://girardvjonathan.github.io/  
+domain: jonathangv.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://jonathangv.com 
 
 # Analytics
 analytics:
