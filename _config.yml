@@ -56,6 +56,13 @@ defaults:
       layout: single
       author_profile: true
 
+comments:
+  provider: "facebook"
+  facebook:
+    appid: 599172657826977
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
 include: ["_pages", "_post"]
 
 author:
