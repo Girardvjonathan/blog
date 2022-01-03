@@ -7,6 +7,7 @@ tags:
   - nutrition
 summary: Reasons why I started keto
 preview: /assets/images/nadine-primeau-n4RrgczkLJM-unsplash.jpg
+excerpt: I think having an optimal health is really paramount to living a good life. This is why I started experimenting with my diet.
 ---
 
 Let me start by saying I think having an optimal health is really paramount to living a good life. What's the point to live a long life if its in pain and you are limited by your body? I heard multiple persons saying the 30s is when the body start to ready feels older and not as sharp as before. What if it didn't have to be this way? 
