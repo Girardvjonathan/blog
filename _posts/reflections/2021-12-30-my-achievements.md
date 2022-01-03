@@ -6,7 +6,9 @@ category: reflections
 tags:
   - reflections
   - achievements
-summary: Summary of the article
+excerpt: "This is my timeline of accomplishment through my life \U0001F604"
+summary: What I accomplished through my life so far
+preview: /assets/images/carolyn-christine-D7bmnvGJA2Q-unsplash.jpg
 ---
 <link rel="stylesheet" href="/assets/css/timeline.css">
 <div class="timeline">
