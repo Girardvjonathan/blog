@@ -7,7 +7,8 @@ date: '2021-12-20T03:07:15.236Z'
 ---
 
 Hi I'm Jonathan! Nice to see you here :)
-This blog is my personal journal. A little bit about myself.
+![](/assets/images/me+dog-square.jpeg)
+This blog is my personal journal. A little bit about myself:
 
 I love to learn! My pleasure in life is to learn new things, create stuff and go on adventure.
 
@@ -19,7 +20,7 @@ I have many reasons:
 * Help me commit and finish projects
 * Strengthen what I learn during my projects
 * Make a journal where I can reflect on my past accomplishment
-* Share my passions with whoever end up here :)
+* Share my passions with whoever end up here 😄
 
 A bit about me. I live in Canada and am around 30 years old. I love music. I play multiples instruments (guitar, piano, bass, ukulele and singing). I used to be DJ and like producing my own tracks. 
 
@@ -29,7 +30,7 @@ Professionally, I am a software developer and lead projects. I love fostering go
 
 You might have guess, but I am an avid reader. I like to escape through science-fiction especially space opera. I also like fantasy and read a ton of self-development books.
 
-I also take my health really seriously and have studied nutrition, psychology and philosophy a bunch and am running diverse experiment to see what diet is optimal for me. I like cooking :)
+I also take my health really seriously and have studied nutrition, psychology and philosophy a bunch and am running diverse experiment to see what diet is optimal for me. I like cooking too.
 
 You might catch me creating things. I like to build stuff. I built my own speakers, clap light, wake up lights and have many plans for the future!
 
@@ -37,4 +38,4 @@ I think this conclude what I spent a bunch of time doing these past few years. O
 
 There is also a ton of things I wish to explore in the future: more wood work, producing video, getting better at photography, drawing and painting, dancing, environment and just getting better at what I already do.
 
-I hope you have a great time reading this blog :)
+I hope you have a great time reading this blog 😃

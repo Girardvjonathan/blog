@@ -67,7 +67,7 @@ include: ["_pages", "_post"]
 
 author:
   name             : "Jonathan Girard-Viau"
-  avatar           : "/assets/images/me.jpeg"
+  avatar           : "/assets/images/me-square-small.jpeg"
   bio              : "Just another curious mind!"
   location         : "Quebec, Canada"
   email            : "webappjohn@gmail.com"
