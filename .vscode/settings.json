@@ -3,5 +3,6 @@
     },
     "cSpell.words": [
         "deadlift"
-    ]
+    ],
+    "frontMatter.framework.startCommand": "bundle exec jekyll serve --draft"
 }
