@@ -2,7 +2,9 @@
     "[markdown]": {
     },
     "cSpell.words": [
-        "deadlift"
+        "bouldering",
+        "deadlift",
+        "HIIT"
     ],
     "frontMatter.framework.startCommand": "bundle exec jekyll serve --draft"
 }
